@@ -1,14 +1,11 @@
 {
-  "main.css": "/playToMax/static/css/main.565f237a.chunk.css",
-  "main.js": "/playToMax/static/js/main.acec55e5.chunk.js",
-  "main.js.map": "/playToMax/static/js/main.acec55e5.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/playToMax/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/playToMax/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "/playToMax/static/js/runtime~main.4b5c63ea.js",
-  "runtime~main.js.map": "/playToMax/static/js/runtime~main.4b5c63ea.js.map",
-  "static/media/logo.svg": "/playToMax/static/media/logo.5d5d9eef.svg",
-  "static/css/main.565f237a.chunk.css.map": "/playToMax/static/css/main.565f237a.chunk.css.map",
+  "main.css": "/playToMax/static/css/main.d84abec8.chunk.css",
+  "main.js": "/playToMax/static/js/main.e7137a56.chunk.js",
+  "main.js.map": "/playToMax/static/js/main.e7137a56.chunk.js.map",
+  "runtime~main.js": "/playToMax/static/js/runtime~main.39d37877.js",
+  "runtime~main.js.map": "/playToMax/static/js/runtime~main.39d37877.js.map",
+  "static/css/main.d84abec8.chunk.css.map": "/playToMax/static/css/main.d84abec8.chunk.css.map",
   "index.html": "/playToMax/index.html",
-  "precache-manifest.ac68946e34a42f6b57116a5e7ca9e613.js": "/playToMax/precache-manifest.ac68946e34a42f6b57116a5e7ca9e613.js",
+  "precache-manifest.fb139c25d0f11800c21606900efbbefb.js": "/playToMax/precache-manifest.fb139c25d0f11800c21606900efbbefb.js",
   "service-worker.js": "/playToMax/service-worker.js"
 }

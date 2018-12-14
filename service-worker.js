@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/playToMax/precache-manifest.ac68946e34a42f6b57116a5e7ca9e613.js"
+  "/playToMax/precache-manifest.fb139c25d0f11800c21606900efbbefb.js"
 );
 
 workbox.clientsClaim();
